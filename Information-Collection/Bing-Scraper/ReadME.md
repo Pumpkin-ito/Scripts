@@ -25,4 +25,4 @@ python Bing-Scraper.py "您在Bing搜索框中输入的内容" -s  # -s 参数�
 
 运行截图：
 
-![image-20241111162244983](E:\Etc\Scripts\Python\Bing-Res\Bing-Res-Grab\新建 Markdown File-images\image-20241111162244983.png)
+![image-20241111162244983](.\img\image-20241111162244983.png)
