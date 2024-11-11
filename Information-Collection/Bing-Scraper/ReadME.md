@@ -13,8 +13,8 @@
 `1.` 下载 `Bing-Scraper.py` 脚本以及 `requirements.txt` 文件。
 
 `2.` 安装所需依赖：
-    ```bash`
-    `pip` `install` `-r` `requirements.txt`
+    ```bash
+    pip install -r requirements.txt
     ```
 
 ## 使用方法
