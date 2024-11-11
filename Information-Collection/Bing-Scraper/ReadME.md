@@ -11,8 +11,9 @@
 
 ## 安装
 `1.` 下载 `Bing-Scraper.py` 脚本以及 `requirements.txt` 文件。
+
 `2.` 安装所需依赖：
-    ````bash`
+    ```bash`
     `pip` `install` `-r` `requirements.txt`
     ```
 
@@ -25,4 +26,4 @@ python Bing-Scraper.py "您在Bing搜索框中输入的内容" -s  # -s 参数�
 
 运行截图：
 
-![image-20241111162244983](Information-Collection/Bing-Scraper/img/运行截图.png)
+![image-20241111162244983](运行截图.png)
