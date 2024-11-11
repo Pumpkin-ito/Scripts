@@ -13,15 +13,14 @@
 `1.` 下载 `Bing-Scraper.py` 脚本以及 `requirements.txt` 文件。
 
 `2.` 安装所需依赖：
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
 ## 使用方法
 运行脚本：
 ```bash
 python Bing-Scraper.py "您在Bing搜索框中输入的内容" -s  # -s 参数为可选，用于静默输出
-![image-20241111154122696](E:\Etc\Scripts\Python\Bing-Res\Bing-Res-Grab\新建 Markdown File-images\image-20241111154122696.png)
 ```
 
 运行截图：
