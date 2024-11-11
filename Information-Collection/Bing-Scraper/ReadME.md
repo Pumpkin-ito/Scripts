@@ -26,4 +26,4 @@ python Bing-Scraper.py "您在Bing搜索框中输入的内容" -s  # -s 参数�
 
 运行截图：
 
-![image-20241111162244983](img/运行截图.png)
+![img/运行截图.png](https://github.com/Pumpkin-ito/Scripts/blob/main/Information-Collection/Bing-Scraper/img/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
