@@ -20,7 +20,11 @@ pip install -r requirements.txt
 ## 使用方法
 运行脚本：
 ```bash
+# 基础用法
 python Bing-Scraper.py "您在Bing搜索框中输入的内容" -s  # -s 参数为可选，用于静默输出
+
+# 示例，搜索域名为Zoomeye.hk的网页，不包含www或web开头的
+python Bing-Scraper.py "site:zoomeye.hk -www -web"
 ```
 
 运行截图：
